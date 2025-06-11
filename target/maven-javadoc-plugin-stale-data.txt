@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/andesala/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/andesala/Documents/JavaProjects/memory-math/target/classes;C:/Users/andesala/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/andesala/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar'
+--patch-module
+com.projects='C:/Users/andesala/Documents/JavaProjects/memory-math/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+--module-source-path
+'C:/Users/andesala/Documents/JavaProjects/memory-math/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/andesala/Documents/JavaProjects/memory-math/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'memory-math 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/andesala/Documents/JavaProjects/memory-math/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'memory-math 1.0-SNAPSHOT API'
+com.projects
+'C:/Users/andesala/Documents/JavaProjects/memory-math/src/main/java/module-info.java'
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\allclasses-index.html = 1749615147082
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\allpackages-index.html = 1749615147086
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\copy.svg = 1749615147132
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\element-list = 1749615146962
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\help-doc.html = 1749615147127
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\index-all.html = 1749615147105
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\index.html = 1749615147112
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\link.svg = 1749615147136
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\member-search-index.js = 1749615147091
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\module-search-index.js = 1749615147087
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\overview-tree.html = 1749615147056
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\package-search-index.js = 1749615147088
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\script.js = 1749615147131
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\search-page.js = 1749615147140
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\search.html = 1749615147109
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\search.js = 1749615147139
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\stylesheet.css = 1749615147129
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\tag-search-index.js = 1749615147094
+C:\Users\andesala\Documents\JavaProjects\memory-math\target\site\apidocs\type-search-index.js = 1749615147089
